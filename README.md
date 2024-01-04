@@ -1,1 +1,1 @@
-# js_slider2_plugin
+# js_slider3_plugin
