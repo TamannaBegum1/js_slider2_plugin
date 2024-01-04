@@ -1,0 +1,1 @@
+# js_slider2_plugin
